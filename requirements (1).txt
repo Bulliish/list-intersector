@@ -1,4 +1,0 @@
-pandas>=2.1
-streamlit>=1.36
-xlsxwriter>=3.2
-openpyxl>=3.1
